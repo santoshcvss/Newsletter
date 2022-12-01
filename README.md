@@ -17,3 +17,5 @@ node app.js
 ```
 Server runs on port 3000
 
+## Deployment
+website link: https://space-for-taste.herokuapp.com/ 
